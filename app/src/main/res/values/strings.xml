@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InternalFile</string>
+    <string name="check_file">CHECK FILE</string>
+    <string name="save_file">SAVE FILE</string>
+</resources>
